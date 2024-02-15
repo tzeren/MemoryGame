@@ -1,0 +1,15 @@
+.box{
+    display: inline-block;
+    width: 15%;
+    height: 18dvh;
+    border: solid 2px black;
+    background-color: grey;
+    margin: 10px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h1{
+    display: inline;
+}
+
